@@ -8,7 +8,7 @@ A complete, beginner-friendly **Student Management System** built with PHP, MySQ
 
 - 🔐 Admin Signup & Login with session management
 - 📊 Dashboard with student stats and quick actions
-- ➕ Add, ✏️ Edit, 🗑️ Delete student records
+- ➕ Add, ✏️ Edit or update, 🗑️ Delete student records
 - 🔍 Search students by name, roll number, section, or email
 - 📱 Fully responsive — works on mobile and desktop
 - ✅ Frontend & backend validation on all forms
